@@ -1,0 +1,16 @@
+.env
+figures/
+rep_sim/*/*.pt
+representation_distance_test.py
+data/gsm8k.jsonl
+data/opposite_test.jsonl
+data/probe_questions.py
+data/similar_test1.jsonl
+data/similar_test2.jsonl
+data/truthfulQA.jsonl
+data/wikitext_test_500.jsonl
+__pycache__/
+*.pyc
+interaction/logs/
+*.pdf
+.claude/

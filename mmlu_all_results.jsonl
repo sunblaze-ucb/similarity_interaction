@@ -1,0 +1,23 @@
+{"model": "tiiuae/Falcon3-10B-Instruct", "accuracy": 0.6849451645064806, "correct": 9618, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "tiiuae/Falcon3-3B-Instruct", "accuracy": 0.4786355220054123, "correct": 6721, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "tiiuae/Falcon3-7B-Instruct", "accuracy": 0.6678535821108105, "correct": 9378, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "meta-llama/Llama-3.2-3B-Instruct", "accuracy": 0.5346816692778806, "correct": 7508, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "meta-llama/Llama-3.3-70B-Instruct", "accuracy": 0.7940464321321749, "correct": 11150, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 2}
+{"model": "mistralai/Ministral-8B-Instruct-2410", "accuracy": 0.5888762284574847, "correct": 8269, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "mistralai/Mistral-Nemo-Instruct-2407", "accuracy": 0.5970659450220767, "correct": 8384, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "allenai/OLMo-2-0425-1B-Instruct", "accuracy": 0.2494658880501353, "correct": 3503, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "allenai/OLMo-2-1124-13B-Instruct", "accuracy": 0.5982765987751033, "correct": 8401, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "microsoft/Phi-3-medium-128k-instruct", "accuracy": 0.19527132887053125, "correct": 2742, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "Lexius/Phi-3.5-mini-instruct", "accuracy": 0.646061814556331, "correct": 9072, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "microsoft/Phi-4-mini-instruct", "accuracy": 0.6381569576983336, "correct": 8961, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "Qwen/Qwen2.5-14B-Instruct", "accuracy": 0.7577980344680245, "correct": 10641, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "Qwen/Qwen2.5-3B-Instruct", "accuracy": 0.6239851872952571, "correct": 8762, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "accuracy": 0.8154821250534112, "correct": 11451, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 4}
+{"model": "Qwen/Qwen2.5-7B-Instruct", "accuracy": 0.7038171200683663, "correct": 9883, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "google/gemma-3-12b-it", "accuracy": 0.7096567440535536, "correct": 9965, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "google/gemma-3-1b-it", "accuracy": 0.3561458481697764, "correct": 5001, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "google/gemma-3-4b-it", "accuracy": 0.5648767981768978, "correct": 7932, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "openai/gpt-oss-20b", "accuracy": 0.24248682523857001, "correct": 3405, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "microsoft/phi-4", "accuracy": 0.7684090585386697, "correct": 10790, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "meta-llama/Llama-3.2-11B-Vision-Instruct", "accuracy": 0.604970801880074, "correct": 8495, "total": 14042,"num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 1}
+{"model": "google/gemma-3-27b-it", "accuracy": 0.7578692493946732, "correct": 10642, "total": 14042, "num_samples": 14042, "batch_size": 32, "tensor_parallel_size": 2}
